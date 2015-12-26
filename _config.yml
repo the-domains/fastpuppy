@@ -2,6 +2,7 @@ name: FastPuppy
 favicon: null
 layout_spectrum: 0.5849170323926955
 typography_spectrum: 0.18748405412770808
+title: FastPuppy
 cta:
   domain: null
   bucket: null
